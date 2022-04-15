@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Leonardo dos Santos",
+        "cpf": "44430383022",
+        "email": "ls2020@hotmail.com",
+        "whatsapp": "11930148927",
+        "adress": {
+            "postalcode": "07863260",
+            "street": "Estrada da Divisa",
+            "number": "351",
+            "details": "Bloco E Apto 11",
+            "district": "Chácaras São José",
+            "city_state": "Franco da Rocha/SP"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+    "cpf_invalid": {
+        "name": "Ivanise Gameleira",
+        "cpf": "XXX44430383085",
+        "email": "ivanise2001@gmail.com",
+        "whatsapp": "11930148927",
+        "adress": {
+            "postalcode": "07863260",
+            "street": "Estrada da Divisa",
+            "number": "351",
+            "details": "Bloco E Apto 11",
+            "district": "Chácaras São José",
+            "city_state": "Franco da Rocha/SP"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    },
+    "email_invalid": {
+        "name": "Leonardo dos Santos",
+        "cpf": "44430383022",
+        "email": "leonardo.com.br",
+        "whatsapp": "11930148927",
+        "adress": {
+            "postalcode": "07863260",
+            "street": "Estrada da Divisa",
+            "number": "351",
+            "details": "Bloco E Apto 11",
+            "district": "Chácaras São José",
+            "city_state": "Franco da Rocha/SP"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "/images/cnh-digital.jpg"
+    }
+}
